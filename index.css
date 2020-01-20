@@ -1,0 +1,44 @@
+html{
+	background-color: DarkBlue;
+	text-align: center;
+}
+h1{
+	font-family: Garamond;
+	color: red;
+	text-align: center;
+}
+
+#name{
+	text-align: center;
+	color: yellow;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+#CMSC{
+	text-align: center;
+	color: pink;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+#GE{
+	text-align: center;
+	color: orange;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+#PL{
+	text-align: center;
+	color: lightgreen;
+	font-size: 20px;
+	font-family: Georgia;
+}
+
+#Food{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	font-family: Georgia;
+}
